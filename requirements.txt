@@ -8,6 +8,7 @@ youtube_dl
 beautifulsoup4
 requests==2.20.0
 pytelegrambotapi
+python-telegram-bot==12.8
 sqlalchemy==1.3.20
 psycopg2-binary
 feedparser
