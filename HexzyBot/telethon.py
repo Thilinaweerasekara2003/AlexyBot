@@ -9,5 +9,5 @@ tbot = TelegramClient(
     NAME, get_int_key("API_ID", required=True), get_str_key("API_HASH", required=True)
 )
 
-# Telethon
+# Telethon> V3.0
 tbot.start(bot_token=TOKEN)
